@@ -3,7 +3,7 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
-		<button @click="scanCode">扫扫</button>
+		<button @click="scanCode">扫一下呗</button>
 	</view>
 </template>
 
